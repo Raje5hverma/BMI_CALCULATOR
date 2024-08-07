@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #0a022e;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+#CAL{
+    cursor: pointer;
+    border-radius: 6px;
+    background-color: green;
+    margin-left: 100px;
+}
+#font{
+    font-family: courier;
+}
+#bmi_h{
+    font-family: courier;
+}
+.guid{
+    margin-left: 100px;
+}
